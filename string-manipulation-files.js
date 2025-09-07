@@ -10,6 +10,10 @@ let myName = "Mohamad";
 // console.log(myName);
 
 // Using utility functions
-console.log(myString.length);
-console.log(myString.charAt(0));
-console.log(myString.charAt(10));
+// console.log(myString.length);
+// console.log(myString.charAt(0));
+// console.log(myString.charAt(10));
+
+//slice and substring functions
+// console.log(myString.slice(5, 9));
+//console.error(anotherString.substring(6, 9));
