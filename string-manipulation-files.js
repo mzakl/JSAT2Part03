@@ -14,6 +14,10 @@ let myName = "Mohamad";
 // console.log(myString.charAt(0));
 // console.log(myString.charAt(10));
 
-//slice and substring functions
+// slice and substring functions
 // console.log(myString.slice(5, 9));
-//console.error(anotherString.substring(6, 9));
+// console.error(anotherString.substring(6, 9));
+
+// change myName to uppercase and lowercase
+// console.log(myName.toUpperCase());
+//console.log(myName.toLowerCase());
